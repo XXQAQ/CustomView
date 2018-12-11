@@ -9,11 +9,6 @@ import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.Button;
 
-/**
- * Created by Administrator on 2017/7/3.
- */
-
-
 public class IconFontButton extends Button {
 
     public IconFontButton(Context context) {

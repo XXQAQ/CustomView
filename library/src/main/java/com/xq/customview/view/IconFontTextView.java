@@ -9,11 +9,6 @@ import android.util.AttributeSet;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-/**
- * Created by xq on 2017/7/3.
- */
-
-
 public class IconFontTextView extends TextView {
 
     public IconFontTextView(Context context) {

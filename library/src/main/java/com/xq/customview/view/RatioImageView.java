@@ -7,11 +7,6 @@ import android.util.AttributeSet;
 import android.widget.ImageView;
 import com.xq.customview.R;
 
-
-/**
- * Created by 熊启 on 2017/2/17.
- */
-
 public class RatioImageView extends ImageView {
 
     /**
